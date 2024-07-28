@@ -5,7 +5,7 @@ go 1.21
 require (
 	cloud.google.com/go/secretmanager v1.11.5
 	cloud.google.com/go/storage v1.37.0
-	github.com/BurntSushi/toml v1.3.2
+	github.com/BurntSushi/toml v1.4.0
 	github.com/Henry-Sarabia/sliceconv v1.0.2
 	github.com/Masterminds/semver/v3 v3.2.1
 	github.com/buger/jsonparser v1.1.1
