@@ -17,7 +17,7 @@ require (
 	github.com/containerd/cgroups v1.1.0
 	github.com/eapache/queue v1.1.0
 	github.com/elastic/gmux v0.3.1
-	github.com/elastic/gosigar v0.14.2
+	github.com/elastic/gosigar v0.14.3
 	github.com/emicklei/dot v1.6.1
 	github.com/envoyproxy/go-control-plane v0.12.0
 	github.com/fluxninja/aperture/api/v2 v2.0.0-20231228195310-b65720bf7857
